@@ -1,0 +1,7 @@
+streamlit
+autogen
+pandas
+numpy
+matplotlib
+openpyxl
+python-dotenv
